@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+.vscode/
+# Se você tiver uma base de dados com senhas reais, esconda ela aqui:
+# produtos.csv
